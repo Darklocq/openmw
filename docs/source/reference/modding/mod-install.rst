@@ -20,7 +20,7 @@ Install
 #.	Create a new line underneath and type: ``data="path/to/your/data folder"`` Remember, the *data folder* is where your mod's plugin files are. The double quotes around this path name are *required*.
 
 .. note::
-	Some text editors, such as TextEdit on Mac, will autocorrect your double quotes to typographical "curly" quotes instead of leaving them as the propper neutral vertical quotes ``""``.
+	Some text editors, such as TextEdit on Mac, will auto-"correct" your double quotes to typographical curly quotes (``“…”``) instead of leaving them as the proper neutral vertical quotes (``"…"``).
 
 #.	Save your ``openmw.cfg`` file.
 
